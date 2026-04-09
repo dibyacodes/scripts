@@ -1,2 +1,3 @@
-# thelinktoGUPAYMENTRECEIPT
-https://onlinener5.com/jblawcollege/admission/index.php  => link to get admission receipt
+## Just some convenience
+
+Pushing my bash scripts and other automations, and snippets that I write for convenience purposes only. Just a repo to have fun with.
